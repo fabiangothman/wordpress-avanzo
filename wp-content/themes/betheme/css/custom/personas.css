@@ -1,0 +1,396 @@
+/* ----------------------------------------------------------- */
+/*	Start People Section Non Responsive Desktop versión	*/
+/* ----------------------------------------------------------- */
+#ppl_sctin.norespnsv{
+	/*border:1px solid red;*/
+	width:100%;
+	color:#00609c;
+}
+
+#ppl_sctin.norespnsv .row_cont1{
+	/*background-color:red;*/
+}
+
+#ppl_sctin.norespnsv .row_cont1 .cols_cont{
+	display:flex;
+}
+	#ppl_sctin.norespnsv .row_cont1 .left_col, #ppl_sctin.norespnsv .row_cont1 .right_col{
+		/*border:1px solid blue;*/
+		width:50%;
+	}
+	#ppl_sctin.norespnsv .row_cont1 .text_cont{
+		/**/
+	}
+
+	#ppl_sctin.norespnsv .row_cont1 .left_col .area_cont{
+		padding:25% 10px;
+		max-width:280px;
+		margin:0px auto;
+	}
+		#ppl_sctin.norespnsv .row_cont1 .left_col .limittex1{
+			width:195px;
+		}
+
+		#ppl_sctin.norespnsv .row_cont1 .left_col .btn_cont{
+			padding-top:30px;
+		}
+
+		#ppl_sctin.norespnsv .row_cont1 .right_col .img_cont{
+			max-width:700px;
+		}
+
+#ppl_sctin.norespnsv .row_cont2{
+	/*background-color:red;*/
+}
+#ppl_sctin.norespnsv .letr_bnt{
+	font-size:20px;
+}
+
+#ppl_sctin.norespnsv .row_cont2 .cols_cont{
+	display:flex;
+	background-image: url(../../images/avanzo.co/fondo_pers2.png);
+	background-color: #000000;
+	max-height:700px;
+	width:auto;
+	background-position: left;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+	#ppl_sctin.norespnsv .row_cont2 .right_col, #ppl_sctin.norespnsv .row_cont2 .left_col{
+		/*border:1px solid blue;*/
+		width:50%;
+	}
+	#ppl_sctin.norespnsv .row_cont2 .text_cont{
+		/**/
+	}
+
+	#ppl_sctin.norespnsv .row_cont2 .left_col .area_cont{
+		padding:40px 0px;
+		padding-left:25%;
+	}
+
+	#ppl_sctin.norespnsv .row_cont2 .left_col .img_cont{
+		max-width:450px;
+		height:auto;
+	}
+
+	#ppl_sctin.norespnsv .row_cont2 .right_col .area_cont{
+		padding:20px 20% 20px 10%;
+		margin:0px auto;
+	}
+	#ppl_sctin.norespnsv .row_cont2 .right_col .paraphs{
+		color:#494949;
+		font-size:15px;
+	}
+
+	#ppl_sctin.norespnsv .row_cont2 .right_col .paraphs .faicn{
+		font-size:20px;
+		color:#00609c;
+	}
+	#ppl_sctin.norespnsv .row_cont2 .right_col .paraphs .txt{
+		margin-left:5px;
+	}
+
+#ppl_sctin.norespnsv .row_cont3{
+	/*background-color:red;*/
+}
+
+#ppl_sctin.norespnsv .row_cont3 .cols_cont{
+	display:flex;
+	background-image: url(../../images/avanzo.co/fondo_pers3.png);
+	background-color: #ffffff;
+	height:auto;
+	width:100%;
+	background-position: left;
+	background-repeat: no-repeat;
+	background-size: auto;
+}
+	#ppl_sctin.norespnsv .row_cont3 .left_col, #ppl_sctin.norespnsv .row_cont3 .right_col{
+		/*border:1px solid blue;*/
+		width:50%;
+	}
+	#ppl_sctin.norespnsv .row_cont3 .text_cont{
+		/**/
+	}
+
+	#ppl_sctin.norespnsv .row_cont3 .left_col .area_cont{
+		padding:10px 10px 10px 20%;
+		max-width:600px;
+		margin:0px auto;
+	}
+		#ppl_sctin.norespnsv .row_cont3 .left_col .text_cont{
+			color:#494949;
+			font-size:16px;
+			padding:10px 40px 10px 20%;
+			line-height:18px;
+		}
+
+		#ppl_sctin.norespnsv .row_cont3 .left_col .limittex1{
+			width:195px;
+		}
+
+		#ppl_sctin.norespnsv .row_cont3 .right_col .img_cont{
+			max-width:700px;
+			padding:0px;
+		}
+
+#ppl_sctin.norespnsv .row_cont4{
+	padding:8px;
+}
+
+#ppl_sctin.norespnsv .row_cont5{
+	/*background-color:red;*/
+}
+	#ppl_sctin.norespnsv .row_cont5 .stcky_cont{
+		max-width:1280px;
+		margin:0px auto;
+	}
+
+	#ppl_sctin.norespnsv .row_cont5 .slider {
+        width: 70%;
+        margin: 0px auto;
+    }
+
+    #ppl_sctin.norespnsv .row_cont5 .slick-slide {
+      margin: 0px 20px;
+    }
+
+    #ppl_sctin.norespnsv .row_cont5 .slick-slide img {
+      width: 100%;
+    }
+
+    #ppl_sctin.norespnsv .row_cont5 .slick-prev:before,
+    #ppl_sctin.norespnsv .row_cont5 .slick-next:before {
+      color: black;
+    }
+
+
+    #ppl_sctin.norespnsv .row_cont5 .slick-slide {
+      transition: all ease-in-out .3s;
+      opacity: .2;
+    }
+    
+    #ppl_sctin.norespnsv .row_cont5 .slick-active {
+      opacity: .5;
+    }
+
+    #ppl_sctin.norespnsv .row_cont5 .slick-current {
+      opacity: 1;
+    }
+
+/*	Page General Styles 	*/
+#ppl_sctin.norespnsv .text_big1{
+	font-size:30px;
+}
+
+@media screen and (min-width: 0px) and (max-width: 900px) {
+
+	/*	Page General Styles 	*/
+	#ppl_sctin.norespnsv .text_big1{
+		font-size:20px;
+	}
+	#ppl_sctin.norespnsv .row_cont3 .left_col .text_cont{
+		font-size:13px;
+	}
+	#ppl_sctin.norespnsv .row_cont3 .right_col .img_cont{
+		padding-top:30%;
+	}
+}
+	
+/* ----------------------------------------------------------- */
+/*	End People Section Non Responsive Desktop versión	*/
+/* ----------------------------------------------------------- */
+
+
+
+
+
+/* ----------------------------------------------------------- */
+/*	Start People Section Responsive Mobile versión	*/
+/* ----------------------------------------------------------- */
+#ppl_sctin.respnsv{
+	/*border:1px solid red;*/
+	width:100%;
+	color:white;
+}
+
+#ppl_sctin.respnsv .row_cont1 .fondo{
+	background-image: url(../../images/avanzo.co/grupo_3.png);
+	background-color: #000000;
+	min-height:500px;
+	width:auto;
+	background-position: left;
+	background-repeat: no-repeat;
+	background-size: cover;
+	-webkit-box-shadow: inset 0 -157px 126px 0px rgba(0,0,0,0.5);
+	-moz-box-shadow: inset 0 -157px 126px 0px rgba(0,0,0,0.5);
+	box-shadow: inset 0 -157px 126px 0px rgba(0,0,0,0.5);
+}
+	#ppl_sctin.respnsv .row_cont1 .area_cont{
+		padding-top:50%;
+	}
+	#ppl_sctin.respnsv .row_cont1 .rlcate{
+		max-width:250px;
+		width:100%;
+		margin:0px 10px;
+		/*border:1px solid blue;*/
+	}
+
+	#ppl_sctin.respnsv .row_cont1 .btn_cont{
+		padding-top:30px;
+	}
+
+#ppl_sctin.respnsv .letr_bnt{
+	font-size:18px;
+}
+
+#ppl_sctin.respnsv .row_cont2 .bckg_cont{
+	padding:15px;
+}
+
+#ppl_sctin.respnsv .row_cont2 .fondo{
+	background-image: url(../../images/avanzo.co/fondo_pers2_rsp.png);
+	background-color: #000000;
+	height:100%;
+	width:auto;
+	background-position: top;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+	#ppl_sctin.respnsv .row_cont2 .img_cont{
+		max-width:450px;
+		height:auto;
+	}
+
+	#ppl_sctin.respnsv .row_cont2 .area_cont{
+		padding:30px 50px;
+		margin:0px auto;
+	}
+	#ppl_sctin.respnsv .row_cont2 .paraphs{
+		color:#494949;
+	}
+
+	#ppl_sctin.respnsv .row_cont2 .title.text_big1{
+		color:#00609c;
+	}
+
+	#ppl_sctin.respnsv .row_cont2 .paraphs .faicn{
+		font-size:20px;
+		color:#00609c;
+	}
+	#ppl_sctin.respnsv .row_cont2 .paraphs .txt{
+		margin-left:5px;
+	}
+
+#ppl_sctin.respnsv .row_cont3 .bckg_cont{
+	padding:15px;
+}
+
+#ppl_sctin.respnsv .row_cont3 .fondo{
+	background-image: url(../../images/avanzo.co/fondo_pers3_rsp.png);
+	background-color: #000000;
+	height:100%;
+	width:auto;
+	background-position: top;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+	#ppl_sctin.respnsv .row_cont3 .img_cont{
+		max-width:450px;
+		height:auto;
+	}
+
+	#ppl_sctin.respnsv .row_cont3 .area_cont{
+		padding:30px 50px;
+		margin:0px auto;
+	}
+	#ppl_sctin.respnsv .row_cont3 .paraphs{
+		color:#494949;
+	}
+	#ppl_sctin.respnsv .row_cont3 .text_cont{
+		padding:10px;
+		margin:0px auto;
+	}
+
+	#ppl_sctin.respnsv .row_cont3 .title.text_big1{
+		color:#00609c;
+	}
+
+	#ppl_sctin.respnsv .row_cont3 .paraphs .faicn{
+		font-size:20px;
+		color:#00609c;
+	}
+	#ppl_sctin.respnsv .row_cont3 .paraphs .txt{
+		margin-left:5px;
+	}
+
+#ppl_sctin.respnsv .row_cont5{
+	/*background-color:red;*/
+}
+	#ppl_sctin.respnsv .row_cont5 .stcky_cont{
+		max-width:1280px;
+		margin:0px auto;
+	}
+
+	#ppl_sctin.respnsv .row_cont5 .slider {
+        width: 100%;
+        margin: 0px auto;
+    }
+
+    #ppl_sctin.respnsv .row_cont5 .slick-slide {
+      margin: 0px 20px;
+    }
+
+    #ppl_sctin.respnsv .row_cont5 .slick-slide img {
+      width: 100%;
+    }
+
+    #ppl_sctin.respnsv .row_cont5 .slick-prev:before,
+    #ppl_sctin.respnsv .row_cont5 .slick-next:before {
+      color: black;
+    }
+
+
+    #ppl_sctin.respnsv .row_cont5 .slick-slide {
+      transition: all ease-in-out .3s;
+      opacity: .2;
+    }
+    
+    #ppl_sctin.respnsv .row_cont5 .slick-active {
+      opacity: .5;
+    }
+
+    #ppl_sctin.respnsv .row_cont5 .slick-current {
+      opacity: 1;
+    }
+
+    #ppl_sctin.respnsv .row_cont5 .slick-prev.slick-arrow{
+    	padding-left: 30px;
+    }
+
+    #ppl_sctin.respnsv .row_cont5 .slick-next.slick-arrow{
+    	padding-right: 40px;
+    }
+
+/*	Page General Styles 	*/
+#ppl_sctin.respnsv .text_big1{
+	font-size:30px;
+	line-height:30px;
+}
+
+@media screen and (min-width: 0px) and (max-width: 400px) {
+
+	/*	Page General Styles 	*/
+	#ppl_sctin.respnsv .row_cont2 .area_cont{
+		padding:10px;
+	}
+
+	#ppl_sctin.respnsv .row_cont2 .title.text_big1{
+		font-size:20px;
+	}
+}
+/* ----------------------------------------------------------- */
+/*	End People Section Responsive Mobile versión	*/
+/* ----------------------------------------------------------- */

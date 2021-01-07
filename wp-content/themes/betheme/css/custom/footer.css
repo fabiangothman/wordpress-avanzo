@@ -1,0 +1,118 @@
+/* ----------------------------------------------------------- */
+/*	Start Footer Non Responsive Desktop versión	*/
+/* ----------------------------------------------------------- */
+#footr_sctin.norespnsv .fondo{
+	/*border:1px solid red;*/
+	color:#72d4ff;
+	font-size:13px;
+	line-height:13px;
+}
+	#footr_sctin.norespnsv .fondo{
+		margin-bottom:10px;
+	}
+	#footr_sctin.norespnsv .cont_cols{
+		/*border:1px solid green;*/
+		display:flex;
+	}
+		#footr_sctin.norespnsv .tcol{
+			/*border:1px solid black;*/
+		}
+			#footr_sctin.norespnsv .cont_sup .txttitle{
+				height:100%;
+				position:relative;
+			}
+				#footr_sctin.norespnsv .cont_sup .txt{
+					position:absolute;
+					bottom:0;
+					text-decoration:underline;
+				}
+				#footr_sctin.norespnsv .cont_sup{
+					height:35%;
+				}
+				#footr_sctin.norespnsv .cont_inf{
+					margin:0px auto;
+					height:65%;
+				}
+		#footr_sctin.norespnsv .col1{
+			width:49%;
+			text-align:center;
+			padding:30px 0px;
+		}
+		#footr_sctin.norespnsv .col2{
+			width:17%;
+			/*padding:20px 0px;*/
+		}
+			#footr_sctin.norespnsv .col2 .cont_inf .logos{
+				display:flex;
+			}
+				#footr_sctin.norespnsv .col2 .cont_inf .logo{
+					width:33.33%;
+					text-align:left;
+					padding:5px;
+				}
+					#footr_sctin.norespnsv .col2 .cont_inf .logo img{
+						max-width:36px;
+						width:100%;
+					}
+
+		#footr_sctin.norespnsv .col3{
+			width:17%;
+		}
+		#footr_sctin.norespnsv .col4{
+			width:17%;
+			height:100px;
+		}
+/* ----------------------------------------------------------- */
+/*	End Footer Non Responsive Desktop versión	*/
+/* ----------------------------------------------------------- */
+
+
+
+
+
+/* ----------------------------------------------------------- */
+/*	Start Responsive Footer General Styles 	*/
+/* ----------------------------------------------------------- */
+
+#footr_sctin .lnk_mail{
+	color:#72d4ff;
+}
+#footr_sctin.respnsv .filas{
+	/*border:1px solid red;*/
+	color:#72d4ff;
+	font-size:13px;
+	line-height:13px;
+}
+
+#footr_sctin.respnsv .cont_sup{
+	/*border:1px solid black;*/
+	text-decoration:underline;
+	margin-top:20px;
+	margin-bottom:10px;
+}
+#footr_sctin.respnsv .cont_inf{
+	/*border:1px solid red;*/
+}
+	#footr_sctin.respnsv .fla{
+		text-align:center;
+	}
+		#footr_sctin.respnsv .fla1{
+			padding:10px;
+		}
+			#footr_sctin.respnsv .fla1 img{
+				width:100%;
+				max-width:250px;
+			}
+		#footr_sctin.respnsv .fla2{
+			text-align:center;
+		}
+			#footr_sctin.respnsv .fla2 .logos{
+				display:flex;
+				padding:0px 25%;
+			}
+				#footr_sctin.respnsv .fla2 .logos .logo{
+					width:33.33%;
+				}
+/* ----------------------------------------------------------- */
+/*	End Footer Responsive Mobile versión	*/
+/* ----------------------------------------------------------- */

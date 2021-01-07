@@ -1,0 +1,96 @@
+/* ----------------------------------------------------------- */
+/*	Start General Styles versión	*/
+/* ----------------------------------------------------------- */
+#Top_bar.is-sticky .container{
+	max-width:92%!important;
+}
+
+.slick-next{
+	right:-7px !important;
+}
+
+#back_to_top{
+	float:right !important;
+	position: fixed;
+    bottom: 15px;
+    right:0px;
+}
+
+#Content{
+	padding-top:0px !important;
+}
+
+.strong{
+	font-weight:bold;
+}
+
+.centrar_txt{
+	text-align:center;
+}
+
+.spacer-10{
+	height:10px;
+}
+
+.paragraph_no_margin{
+	margin:0px;
+}
+
+.text-blueavanzo{
+    color:#00609c !important;
+}
+
+.text-blackavanzo{
+    color:#707070 !important;
+}
+
+.text-skyblueavanzo{
+    color:#edf8fd !important;
+}
+
+.text-whiteavanzo{
+    color:#72d4ff !important;
+}
+
+.bgcolor-azulavanzo{
+    background-color:#00609c !important;
+}
+.bgcolor-skyblueavanzo{
+    background-color:#edf8fd !important;
+}
+.text-marinaavanzo{
+    color:#00f8ff !important;
+}
+
+.spacer-20{
+	height:20px;
+}
+
+.spacer-26{
+	height:26px;
+}
+
+.spacer-30{
+	height:30px;
+}
+
+.spacer-40{
+	height:40px;
+}
+
+.spacer-50{
+	height:50px;
+}
+
+.widthlimiter1060{
+	max-width: 1060px;
+	margin:0px auto;
+}
+
+.widthlimiter1920{
+	max-width: 1920px;
+	margin:0px auto;
+}
+/* ----------------------------------------------------------- */
+/*	End General Styles versión	*/
+/* ----------------------------------------------------------- */

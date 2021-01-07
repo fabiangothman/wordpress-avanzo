@@ -1,0 +1,7 @@
+.bg-firstimg{
+  background-image: url(../motosemtelco/images/banner_1.png);
+  /*background:url(?holder.js/1920x1080?theme=social) no-repeat;*/
+  background-position:top left;
+  background-repeat:no-repeat;
+  background-size:100% auto;
+}

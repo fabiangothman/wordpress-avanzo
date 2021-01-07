@@ -1,0 +1,71 @@
+body{
+	font-family: "Avenir";
+}
+body, #myModal{
+	padding-right:0px !important
+}
+.top_bar_right_wrapper .action_button, .top_bar_right_wrapper .action_button:hover{
+	color:white !important;
+}
+#login_sctin .modal-login {
+	width: 320px;
+}
+.modal-backdrop{
+	background-color:rgba(100,100,100,0.5) !important;
+}
+#login_sctin .modal-login .modal-content {
+	border-radius: 1px;
+	border: none;
+}
+#login_sctin .modal-login .modal-header {
+    position: relative;
+	justify-content: center;
+    background: #f2f2f2;
+}
+#login_sctin .modal-login .modal-body {
+    padding: 30px;
+}
+#login_sctin .modal-login .modal-footer {
+    background: #f2f2f2;
+}
+#login_sctin .modal-login h4 {
+	text-align: center;
+	font-size: 26px;
+}
+#login_sctin .modal-login label {
+    font-weight: normal;
+    font-size: 13px;
+}
+#login_sctin .modal-login .form-control, #login_sctin .modal-login .btn {
+	min-height: 38px;
+	border-radius: 2px; 
+}
+#login_sctin .modal-login .hint-text {
+	text-align: center;
+}
+#login_sctin .modal-login .close {
+    position: absolute;
+	top: 15px;
+	right: 15px;
+}
+#login_sctin .modal-login .checkbox-inline {
+    margin-top: 12px;
+}
+#login_sctin .modal-login input[type="checkbox"]{
+    margin-top: 2px;
+}
+#login_sctin .modal-login .btn {
+    min-width: 100px;
+	background: #3498db;
+	border: none;
+	line-height: normal;
+}
+#login_sctin .modal-login .btn:hover, #login_sctin .modal-login .btn:focus {
+	background: #248bd0;
+}
+#login_sctin .modal-login .hint-text a {
+	color: #999;
+}
+.trigger-btn {
+	display: none;
+}
